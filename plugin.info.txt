@@ -1,0 +1,7 @@
+base   headerfooter2
+author Henk Bliek
+email  hbliek@whitebream.com
+date   2024-09-17
+name   HeaderFooter plugin 
+desc   Add header and/or footer text in every page in a namespace without the need to edit pages
+url    http://dokuwiki.org/plugin:headerfooter2
